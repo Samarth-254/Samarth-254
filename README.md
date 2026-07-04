@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Samarth Nagpal👋</h1>
 <h3 align="center">Full-Stack & AI Developer | Building real-time systems, AI agents, and production-grade tools</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5A1F&center=true&vCenter=true&width=600&lines=Building+real-time+systems+%26+AI+agents;Full-Stack+%2B+AI+Developer;Open+to+SDE+Internships" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://portfolio-samarth-nagpal.infinityfreeapp.com/"><img src="https://img.shields.io/badge/Portfolio-FF5A1F?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -16,11 +16,11 @@
 
 ### About Me
 
-- 🎓 B.Tech CS (AI), Maharaja Agrasen Institute of Technology — Class of 2027
-- ⚡ Currently building AI-powered, real-time systems — voice AI interviewers, LLM workflow orchestration, and expense-sharing platforms
-- 💼 Ex-Intern @ Datagen Internet Services (WebSocket analytics platforms) & DishTV (internal tooling, API reliability)
-- 🧩 405+ DSA problems solved on TakeUForward · 450+ on LeetCode
-- 📫 Reach me: samarthnagpal070@gmail.com
+- B.Tech CS (AI), Maharaja Agrasen Institute of Technology — Class of 2027
+- Currently building AI-powered, real-time systems — voice AI interviewers, LLM workflow orchestration, and expense-sharing platforms
+- Ex-Intern @ Datagen Internet Services (WebSocket analytics platforms) & DishTV (internal tooling, API reliability)
+- 405+ DSA problems solved on TakeUForward · 450+ on LeetCode
+- Reach me: samarthnagpal070@gmail.com
 
 ---
 
@@ -85,7 +85,17 @@ Real-time Kanban-style project management tool built with multi-tenant architect
 
 ---
 
-### 📈 Contribution Snake
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samarth-254&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Samarth-254&theme=radical&hide_border=true" height="165"/>
+</p>
+
+
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
