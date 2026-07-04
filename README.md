@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samarth 👋</h1>
+<h1 align="center">Hi, I'm Samarth Nagpal👋</h1>
 <h3 align="center">Full-Stack & AI Developer | Building real-time systems, AI agents, and production-grade tools</h3>
 
 <p align="center">
@@ -65,11 +65,6 @@ JavaScript, Node.js, MongoDB, Groq SDK, Xenova Transformers
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
-**Languages:** JavaScript, TypeScript, Java, C++, SQL, HTML/CSS
-**Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, LangGraph, Tailwind CSS
-**Databases:** PostgreSQL, MongoDB
-**Tools & Platforms:** Git, GitHub Actions, Postman, Figma, Google Cloud Platform, Trigger.dev, Vapi
-
 ---
 
 ### 📊 GitHub Stats
@@ -80,7 +75,7 @@ JavaScript, Node.js, MongoDB, Groq SDK, Xenova Transformers
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-254&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthnagpal070-3547&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
