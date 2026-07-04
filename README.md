@@ -19,7 +19,7 @@
 - B.Tech CS (AI), Maharaja Agrasen Institute of Technology — Class of 2027
 - Currently building AI-powered, real-time systems — voice AI interviewers, LLM workflow orchestration, and expense-sharing platforms
 - Ex-Intern @ Datagen Internet Services & DishTV.
-- 405+ DSA problems solved on TakeUForward · 450+ on LeetCode
+- 400+ DSA problems solved on TakeUForward · 450+ on LeetCode
 - Reach me: samarthnagpal070@gmail.com
 
 ---
