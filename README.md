@@ -43,7 +43,7 @@ Hybrid retrieval chatbot combining document/QA-pair search with local semantic e
 Real-time expense platform with smart balance calculation and friend-wise debt aggregation. Offline-capable PWA with WebSocket live updates and Web Push notifications.
 `JavaScript` `Node.js` `MongoDB` `WebSockets` `PWA`
 
-#### [AtomQuest — Goal Setting & Tracking Portal](https://github.com/Samarth-254/AtomQuest-Frontend)
+<!-- #### [AtomQuest — Goal Setting & Tracking Portal](https://github.com/Samarth-254/AtomQuest-Frontend)
 Enterprise-grade goal-tracking platform built for a hackathon BRD, with three fully isolated user journeys (Employee, Manager, Admin/HR). Escalation engine with cron-based skip-level alerts, QoQ analytics with department heatmaps, CSV/XLSX exports, and role-based route guards.
 `React` `Tailwind CSS` `Socket.io` `React Router` `Recharts`
 
@@ -53,7 +53,7 @@ Hour-tracking and leave-management app secured end-to-end with Supabase Row-Leve
 
 #### [WorkNest — Multi-Tenant Task Management](https://github.com/Samarth-254/Multi-Tenant-Task-Management-Frontend)
 Real-time Kanban-style project management tool built with multi-tenant architecture from the ground up — isolated tenant data, JWT-based auth, live task sync via Socket.io.
-`React` `Node.js` `Socket.io` `Multi-Tenant Architecture`
+`React` `Node.js` `Socket.io` `Multi-Tenant Architecture` -->
 
 ---
 
