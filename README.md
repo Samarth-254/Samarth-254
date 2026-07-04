@@ -3,44 +3,46 @@
 
 <p align="center">
   <a href="https://portfolio-samarth-nagpal.infinityfreeapp.com/"><img src="https://img.shields.io/badge/Portfolio-FF5A1F?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/samarth-nagpal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/samarth254"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/samarth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/samarthnagpal254/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://takeuforward.org/profile/samarth254"><img src="https://img.shields.io/badge/TakeUForward-2F8D46?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ About Me
+### About Me
 
-- 🎓 B.Tech CS (AI), Maharaja Agrasen Institute of Technology — Class of 2027
-- 🛠️ Currently building **AI-powered, real-time systems** — voice AI interviewers, LLM workflow orchestration, and expense-sharing platforms
-- 💼 Ex-Intern @ **Datagen Internet Services** (WebSocket analytics platforms) & **DishTV** (internal tooling, API reliability)
-- 🧠 450+ DSA problems solved (LeetCode) · 430+ (TakeUForward)
-- 📫 Reach me: **samarthnagpal070@gmail.com**
+- B.Tech CS (AI), Maharaja Agrasen Institute of Technology — Class of 2027
+- Currently building AI-powered, real-time systems — voice AI interviewers, LLM workflow orchestration, and expense-sharing platforms
+- Ex-Intern @ Datagen Internet Services (WebSocket analytics platforms) & DishTV (internal tooling, API reliability)
+- 400+ DSA problems solved on LeetCode · 400+ on TakeUForward
+- Reach me: samarthnagpal070@gmail.com
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🎙️ [InterviewAI — AI Mock Interview Platform](https://github.com/Samarth-254/AI-Interview)
+#### [InterviewAI — AI Mock Interview Platform](https://github.com/Samarth-254/AI-Interview)
 Production-grade voice-based mock interview platform with a real AI interviewer persona ("Arjun"). Real-time voice conversations, adaptive follow-up questions via LangGraph state machines, PostgreSQL checkpointing, automated feedback reports.
-`React` `Node.js` `PostgreSQL` `LangGraph` `Vapi` `AssemblyAI` `Gemini API`
+JavaScript, Node.js, PostgreSQL, LangGraph, Vapi, AssemblyAI, Gemini API
 
-#### 🔀 NextFlow — Visual AI Workflow Orchestrator
+#### [NextFlow — Visual AI Workflow Orchestrator](https://work-flow-builder-kappa.vercel.app/dashboard)
 Drag-and-drop DAG-based LLM pipeline builder. Kahn's Algorithm for execution ordering, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens.
-`Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` `Gemini API`
-*(Private — active internship assessment)*
+Next.js, TypeScript, Trigger.dev, React Flow, Prisma, PostgreSQL, Gemini API
+*(Repo private — active internship assessment. Link above is the live demo.)*
 
-#### 💸 [SplitEase — Real-Time Expense Splitting PWA](https://github.com/Samarth-254/SplitEaseFrontend)
+#### [SplitEase — Real-Time Expense Splitting PWA](https://github.com/Samarth-254/SplitEaseFrontend)
 Real-time expense platform with smart balance calculation and friend-wise debt aggregation. Offline-capable PWA with WebSocket live updates and Web Push notifications.
-`React` `Node.js` `MongoDB` `WebSockets` `PWA`
+JavaScript, Node.js, MongoDB, WebSockets, PWA
 
-#### 🗂️ [WorkNest — Multi-Tenant Task Management](https://github.com/Samarth-254/Multi-Tenant-Task-Management-Backend)
+#### [WorkNest — Multi-Tenant Task Management](https://github.com/Samarth-254/Multi-Tenant-Task-Management-Frontend)
 Kanban-style project management tool built with a multi-tenant architecture from the ground up — isolated data, scoped access, shared infra.
-`JavaScript` `Node.js` `Multi-Tenancy`
+JavaScript, Node.js, Multi-Tenant Architecture
 
-#### 🤖 RAG Chatbot
-Hybrid retrieval chatbot combining MongoDB keyword search with local semantic embeddings (Xenova/all-MiniLM-L6-v2) — no external embedding API cost. Cosine similarity + regex fallback for robust retrieval.
-`Node.js` `MongoDB` `Groq SDK` `@xenova/transformers`
+#### [RAG Chatbot](https://chatbot-frontend-eight-rouge.vercel.app/)
+Hybrid retrieval chatbot combining MongoDB keyword search with local semantic embeddings (Xenova/all-MiniLM-L6-v2) — no external embedding API cost. Cosine similarity and regex fallback for robust retrieval.
+JavaScript, Node.js, MongoDB, Groq SDK, Xenova Transformers
+*(Repo going public tomorrow — link above is the live demo for now.)*
 
 ---
 
@@ -62,6 +64,11 @@ Hybrid retrieval chatbot combining MongoDB keyword search with local semantic em
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
+
+**Languages:** JavaScript, TypeScript, Java, C++, SQL, HTML/CSS
+**Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, LangGraph, Tailwind CSS
+**Databases:** PostgreSQL, MongoDB
+**Tools & Platforms:** Git, GitHub Actions, Postman, Figma, Google Cloud Platform, Trigger.dev, Vapi
 
 ---
 
