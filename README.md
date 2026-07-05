@@ -1,22 +1,13 @@
 <div align="center">
 
 ```
-███████╗ █████╗ ███╗   ███╗ █████╗ ██████╗ ████████╗██╗  ██╗
-██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
-███████╗███████║██╔████╔██║███████║██████╔╝   ██║   ███████║
-╚════██║██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██╔══██║
-███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-
-███╗   ██╗ █████╗  ██████╗ ██████╗  █████╗ ██╗
-████╗  ██║██╔══██╗██╔════╝ ██╔══██╗██╔══██╗██║
-██╔██╗ ██║███████║██║  ███╗██████╔╝███████║██║
-██║╚██╗██║██╔══██║██║   ██║██╔═══╝ ██╔══██║██║
-██║ ╚████║██║  ██║╚██████╔╝██║     ██║  ██║███████╗
-╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝
+ ___   _   __  __   _   ___ _____ _  _   _  _   _   ___ ___  _   _
+/ __| /_\ |  \/  | /_\ | _ \_   _| || | | \| | /_\ / __| _ \/_\ | |
+\__ \/ _ \| |\/| |/ _ \|   / | | | __ | | .` |/ _ \ (_ |  _/ _ \| |__
+|___/_/ \_\_|  |_/_/ \_\_|_\ |_| |_||_| |_|\_/_/ \_\___|_|/_/ \_\____|
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer;Building+real-time+systems+%26+AI+agents;Shipping+production-grade+tools+%F0%9F%9F%A2;Open+to+SDE+Jobs%2C+Internships+%26+Collabs+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full-Stack+Developer+%7C+Scalable+Web+%26+Backend+Systems;Building+AI-Powered+Systems+%F0%9F%9F%A2;Open+to+SDE+Jobs%2C+Internships+%26+Collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,7 +19,7 @@ visitor@github:~$ cat ./about_me.txt
   Name    : Samarth Nagpal
   Handle  : Samarth-254
   Uni     : Maharaja Agrasen Institute of Technology, Delhi — B.Tech CS (AI), Class of 2027
-  Focus   : Real-time systems · AI agents · LLM workflow orchestration
+  Focus   : Scalable web apps · backend services · AI-powered systems
   DSA     : 450+ solved on LeetCode · 400+ on TakeUForward
   Status  : ▰▰▰▰▰▰▰▰▰▱  Open to SDE jobs, internships & collabs ✅
 ```
