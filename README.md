@@ -1,106 +1,150 @@
-<h1 align="center">Hi, I'm Samarth Nagpal👋</h1>
-<h3 align="center">Full-Stack & AI Developer | Building real-time systems, AI agents, and production-grade tools</h3>
+<div align="center">
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5A1F&center=true&vCenter=true&width=600&lines=Building+real-time+systems+%26+AI+agents;Full-Stack+%2B+AI+Developer;Open+to+SDE+Internships" alt="Typing SVG" />
-</p> -->
+```
+███████╗ █████╗ ███╗   ███╗ █████╗ ██████╗ ████████╗██╗  ██╗
+██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
+███████╗███████║██╔████╔██║███████║██████╔╝   ██║   ███████║
+╚════██║██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██╔══██║
+███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://portfolio-samarth-nagpal.infinityfreeapp.com/"><img src="https://img.shields.io/badge/Portfolio-FF5A1F?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/samarth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/samarthnagpal254/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://takeuforward.org/profile/samarth254"><img src="https://img.shields.io/badge/TakeUForward-2F8D46?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer;Building+real-time+systems+%26+AI+agents;Shipping+production-grade+tools+%F0%9F%9F%A2;Open+to+SDE+Internships+%E2%9C%A8)](https://git.io/typing-svg)
 
----
-
-### About Me
-
-- B.Tech CS (AI), Maharaja Agrasen Institute of Technology — Class of 2027
-- Currently building AI-powered, real-time systems — voice AI interviewers, LLM workflow orchestration, and expense-sharing platforms
-- Ex-Intern @ Datagen Internet Services & DishTV.
-- 400+ DSA problems solved on TakeUForward · 450+ on LeetCode
-- Reach me: samarthnagpal070@gmail.com
+</div>
 
 ---
 
-### Featured Projects
+```bash
+visitor@github:~$ cat ./about_me.txt
 
-#### [InterviewAI — AI Mock Interview Platform](https://github.com/Samarth-254/AI-Interview)
-Production-grade voice-based mock interview platform with a real AI interviewer persona ("Arjun"). Real-time voice conversations, adaptive follow-up questions via LangGraph state machines, PostgreSQL checkpointing, automated feedback reports.
-`JavaScript` `Node.js` `PostgreSQL` `LangGraph` `Vapi` `Deepgram` `Gemini API`
+  Name    : Samarth Nagpal
+  Handle  : Samarth-254
+  Uni     : Maharaja Agrasen Institute of Technology, Delhi — B.Tech CS (AI), Class of 2027
+  Focus   : Real-time systems · AI agents · LLM workflow orchestration
+  DSA     : 450+ solved on LeetCode · 400+ on TakeUForward
+  Status  : ▰▰▰▰▰▰▰▰▰▱  Open to SDE internships ✅
+```
 
-#### [NextFlow — Visual AI Workflow Orchestrator](https://work-flow-builder-kappa.vercel.app/dashboard)
-Drag-and-drop DAG-based LLM pipeline builder. Kahn's Algorithm for execution ordering, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens.
-`Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` `Gemini API`
-*(Repo private — active internship assessment. Link above is the live demo.)*
+---
 
-#### [SupportAI — RAG Chatbot + Admin Console](https://github.com/Samarth-254/Chatbot-frontend)
-Hybrid retrieval chatbot combining document/QA-pair search with local semantic embeddings (Xenova/all-MiniLM-L6-v2) — no external embedding API cost. Full admin dashboard for knowledge base management, custom QA pairs, and interaction analytics, with automatic unresolved-query flagging when nothing in the knowledge base grounds an answer.
-`JavaScript` `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers`
+## `> tech.stack`
 
-#### [SplitEase — Real-Time Expense Splitting PWA](https://github.com/Samarth-254/SplitEaseFrontend)
-Real-time expense platform with smart balance calculation and friend-wise debt aggregation. Offline-capable PWA with WebSocket live updates and Web Push notifications.
-`JavaScript` `Node.js` `MongoDB` `WebSockets` `PWA`
+**Languages**
 
-<!-- #### [AtomQuest — Goal Setting & Tracking Portal](https://github.com/Samarth-254/AtomQuest-Frontend)
-Enterprise-grade goal-tracking platform built for a hackathon BRD, with three fully isolated user journeys (Employee, Manager, Admin/HR). Escalation engine with cron-based skip-level alerts, QoQ analytics with department heatmaps, CSV/XLSX exports, and role-based route guards.
-`React` `Tailwind CSS` `Socket.io` `React Router` `Recharts`
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
-#### [Timekeeper — Hour Tracking & Leave Management](https://github.com/Samarth-254/Timekeeper)
-Hour-tracking and leave-management app secured end-to-end with Supabase Row-Level Security — no user can read or modify another user's records at the database level. Real-time notifications via PostgreSQL PubSub and team presence tracking.
-`React` `Supabase` `PostgreSQL RLS` `React Query` `Tailwind CSS`
+**Frameworks & Tools**
 
-#### [WorkNest — Multi-Tenant Task Management](https://github.com/Samarth-254/Multi-Tenant-Task-Management-Frontend)
-Real-time Kanban-style project management tool built with multi-tenant architecture from the ground up — isolated tenant data, JWT-based auth, live task sync via Socket.io.
-`React` `Node.js` `Socket.io` `Multi-Tenant Architecture` -->
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+---
+
+## `> pinned.projects`
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**⬡ NextFlow**](https://work-flow-builder-kappa.vercel.app/dashboard) | Visual DAG-based LLM workflow orchestrator — Kahn's algorithm for execution order, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens *(repo private — active internship assessment)* | `Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` |
+| [**⬡ InterviewAI**](https://github.com/Samarth-254/AI-Interview) | Voice-based AI mock interview platform with a persona interviewer ("Arjun") — real-time voice pipeline, LangGraph state machines, automated PDF feedback reports | `Node.js` `PostgreSQL` `LangGraph` `Vapi` `Deepgram` `Gemini` |
+| [**⬡ SupportAI**](https://github.com/Samarth-254/Chatbot-frontend) | Hybrid-retrieval RAG chatbot using local semantic embeddings — zero external embedding API cost, full admin console for KB management | `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers` |
+| [**⬡ SplitEase**](https://github.com/Samarth-254/SplitEaseFrontend) | Real-time expense-splitting PWA — smart balance calculation, friend-wise debt aggregation, offline support, WebSocket live sync | `Node.js` `MongoDB` `WebSockets` `PWA` |
 
 ---
 
 ### 💼 Client Work
 
-**[Wolffoxx](https://wolffoxx.com)** — E-commerce storefront for a streetwear fashion brand. Built product catalogue, wishlist, and checkout flows with React and Tailwind CSS, integrated Cloudinary for image handling and Razorpay for payments, PHP/MySQL backend, deployed on GoDaddy for a live production client.
+**[Wolffoxx](https://wolffoxx.com)** — E-commerce storefront for a streetwear brand. Product catalogue, wishlist, and checkout flows in React/Tailwind, Cloudinary image handling, Razorpay payments, PHP/MySQL backend, deployed on GoDaddy for a live client.
 
 ---
 
-### 🧰 Tech Stack
+## `> currently.working_on`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-</p>
+```javascript
+const current = {
+  reviewing : "NextFlow — Galaxy.ai internship assessment",
+  grinding  : ["monotonic stacks", "sliding window / two pointers", "tree patterns"],
+  goal      : "Land an SDE internship before campus placements — Class of 2027",
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+## `> github.stats`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samarth-254&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Samarth-254&theme=radical&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth-254&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-254&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samarth-254&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 🐍 Contribution Snake
+## `> activity.graph`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
+<div align="center">
+
+[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-254&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-<p align="center"><i>Building things that ship, not just things that demo.</i></p>
+## `> contribution.snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## `> contact.init()`
+
+```javascript
+const contact = {
+  email     : "samarthnagpal070@gmail.com",
+  portfolio : "portfolio-samarth-nagpal.infinityfreeapp.com",
+  leetcode  : "leetcode.com/u/samarthnagpal254",
+  tuf       : "takeuforward.org/profile/samarth254",
+  status    : "Open to internships & collabs 🟢",
+};
+
+console.log("Building things that ship, not just things that demo.");
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=161b22)](https://portfolio-samarth-nagpal.infinityfreeapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=161b22)](https://linkedin.com/in/samarth)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=161b22)](https://leetcode.com/u/samarthnagpal254/)
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-0d1117?style=for-the-badge&logo=codeforces&logoColor=00ff88&labelColor=161b22)](https://takeuforward.org/profile/samarth254)
+![Visitors](https://komarev.com/ghpvc/?username=Samarth-254&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+
+</div>
+
+---
+
+<div align="center">
+  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
+</div>
