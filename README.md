@@ -1,10 +1,12 @@
 <div align="center">
 
 ```
- ___   _   __  __   _   ___ _____ _  _   _  _   _   ___ ___  _   _
-/ __| /_\ |  \/  | /_\ | _ \_   _| || | | \| | /_\ / __| _ \/_\ | |
-\__ \/ _ \| |\/| |/ _ \|   / | | | __ | | .` |/ _ \ (_ |  _/ _ \| |__
-|___/_/ \_\_|  |_/_/ \_\_|_\ |_| |_||_| |_|\_/_/ \_\___|_|/_/ \_\____|
+███████╗ █████╗ ███╗   ███╗ █████╗ ██████╗ ████████╗██╗  ██╗    ███╗   ██╗ █████╗  ██████╗ ██████╗  █████╗ ██╗
+██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ████╗  ██║██╔══██╗██╔════╝ ██╔══██╗██╔══██╗██║
+███████╗███████║██╔████╔██║███████║██████╔╝   ██║   ███████║    ██╔██╗ ██║███████║██║  ███╗██████╔╝███████║██║
+╚════██║██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██╔══██║    ██║╚██╗██║██╔══██║██║   ██║██╔═══╝ ██╔══██║██║
+███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║    ██║ ╚████║██║  ██║╚██████╔╝██║     ██║  ██║███████╗
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full-Stack+Developer+%7C+Scalable+Web+%26+Backend+Systems;Building+AI-Powered+Systems+%F0%9F%9F%A2;Open+to+SDE+Jobs%2C+Internships+%26+Collabs+%E2%9C%A8)](https://git.io/typing-svg)
@@ -55,10 +57,10 @@ visitor@github:~$ cat ./about_me.txt
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**⬡ NextFlow**](https://work-flow-builder-kappa.vercel.app/dashboard) | Visual DAG-based LLM workflow orchestrator — Kahn's algorithm for execution order, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens *(repo private — active internship assessment)* | `Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` |
-| [**⬡ InterviewAI**](https://github.com/Samarth-254/AI-Interview) | Voice-based AI mock interview platform with a persona interviewer ("Arjun") — real-time voice pipeline, LangGraph state machines, automated PDF feedback reports | `Node.js` `PostgreSQL` `LangGraph` `Vapi` `Deepgram` `Gemini` |
-| [**⬡ SupportAI**](https://github.com/Samarth-254/Chatbot-frontend) | Hybrid-retrieval RAG chatbot using local semantic embeddings — zero external embedding API cost, full admin console for KB management | `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers` |
-| [**⬡ SplitEase**](https://github.com/Samarth-254/SplitEaseFrontend) | Real-time expense-splitting PWA — smart balance calculation, friend-wise debt aggregation, offline support, WebSocket live sync | `Node.js` `MongoDB` `WebSockets` `PWA` |
+| [**⬡&nbsp;NextFlow**](https://work-flow-builder-kappa.vercel.app/dashboard) | Visual DAG-based LLM workflow orchestrator — Kahn's algorithm for execution order, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens *(repo private — active internship assessment)* | `Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` |
+| [**⬡&nbsp;InterviewAI**](https://github.com/Samarth-254/AI-Interview) | Voice-based AI mock interview platform with a persona interviewer ("Arjun") — real-time voice pipeline, LangGraph state machines, automated PDF feedback reports | `Node.js` `PostgreSQL` `LangGraph` `Vapi` `Deepgram` `Gemini` |
+| [**⬡&nbsp;SupportAI**](https://github.com/Samarth-254/Chatbot-frontend) | Hybrid-retrieval RAG chatbot using local semantic embeddings — zero external embedding API cost, full admin console for KB management | `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers` |
+| [**⬡&nbsp;SplitEase**](https://github.com/Samarth-254/SplitEaseFrontend) | Real-time expense-splitting PWA — smart balance calculation, friend-wise debt aggregation, offline support, WebSocket live sync | `Node.js` `MongoDB` `WebSockets` `PWA` |
 
 ---
 
@@ -122,7 +124,7 @@ console.log("Building things that ship, not just things that demo.");
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=161b22)](https://portfolio-samarth-nagpal.infinityfreeapp.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=161b22)](https://linkedin.com/in/samarth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/samarth-nagpal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=161b22)](https://leetcode.com/u/samarthnagpal254/)
 [![TakeUForward](https://img.shields.io/badge/TakeUForward-0d1117?style=for-the-badge&logo=codeforces&logoColor=00ff88&labelColor=161b22)](https://takeuforward.org/profile/samarth254)
 ![Visitors](https://komarev.com/ghpvc/?username=Samarth-254&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
