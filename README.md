@@ -52,6 +52,8 @@ visitor@github:~$ cat ./about_me.txt
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
+[![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff88&labelColor=161b22)](https://www.langchain.com/langgraph)
+
 ---
 
 ## `> pinned.projects`
