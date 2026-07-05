@@ -7,9 +7,16 @@
 ╚════██║██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██╔══██║
 ███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+███╗   ██╗ █████╗  ██████╗ ██████╗  █████╗ ██╗
+████╗  ██║██╔══██╗██╔════╝ ██╔══██╗██╔══██╗██║
+██╔██╗ ██║███████║██║  ███╗██████╔╝███████║██║
+██║╚██╗██║██╔══██║██║   ██║██╔═══╝ ██╔══██║██║
+██║ ╚████║██║  ██║╚██████╔╝██║     ██║  ██║███████╗
+╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer;Building+real-time+systems+%26+AI+agents;Shipping+production-grade+tools+%F0%9F%9F%A2;Open+to+SDE+Internships+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer;Building+real-time+systems+%26+AI+agents;Shipping+production-grade+tools+%F0%9F%9F%A2;Open+to+SDE+Jobs%2C+Internships+%26+Collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +30,7 @@ visitor@github:~$ cat ./about_me.txt
   Uni     : Maharaja Agrasen Institute of Technology, Delhi — B.Tech CS (AI), Class of 2027
   Focus   : Real-time systems · AI agents · LLM workflow orchestration
   DSA     : 450+ solved on LeetCode · 400+ on TakeUForward
-  Status  : ▰▰▰▰▰▰▰▰▰▱  Open to SDE internships ✅
+  Status  : ▰▰▰▰▰▰▰▰▰▱  Open to SDE jobs, internships & collabs ✅
 ```
 
 ---
@@ -67,18 +74,6 @@ visitor@github:~$ cat ./about_me.txt
 ### 💼 Client Work
 
 **[Wolffoxx](https://wolffoxx.com)** — E-commerce storefront for a streetwear brand. Product catalogue, wishlist, and checkout flows in React/Tailwind, Cloudinary image handling, Razorpay payments, PHP/MySQL backend, deployed on GoDaddy for a live client.
-
----
-
-## `> currently.working_on`
-
-```javascript
-const current = {
-  reviewing : "NextFlow — Galaxy.ai internship assessment",
-  grinding  : ["monotonic stacks", "sliding window / two pointers", "tree patterns"],
-  goal      : "Land an SDE internship before campus placements — Class of 2027",
-};
-```
 
 ---
 
@@ -127,7 +122,7 @@ const contact = {
   portfolio : "portfolio-samarth-nagpal.infinityfreeapp.com",
   leetcode  : "leetcode.com/u/samarthnagpal254",
   tuf       : "takeuforward.org/profile/samarth254",
-  status    : "Open to internships & collabs 🟢",
+  status    : "Open to SDE jobs, internships & collabs 🟢",
 };
 
 console.log("Building things that ship, not just things that demo.");
