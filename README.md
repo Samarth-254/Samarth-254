@@ -52,9 +52,6 @@ visitor@github:~$ cat ./about_me.txt
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
-[![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&labelColor=161b22)](https://github.com/Samarth-254/AI-Interview)
-[![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=161b22)](https://github.com/Samarth-254/Chatbot-frontend)
-
 ---
 
 ## `> pinned.projects`
@@ -63,7 +60,7 @@ visitor@github:~$ cat ./about_me.txt
 |---------|-------------|-------|
 | [**⬡&nbsp;NextFlow**](https://work-flow-builder-kappa.vercel.app/dashboard) | Visual DAG-based LLM workflow orchestrator — Kahn's algorithm for execution order, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens *(repo private — active internship assessment)* | `Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` |
 | [**⬡&nbsp;InterviewAI**](https://github.com/Samarth-254/AI-Interview) | Voice-based AI mock interview platform with a persona interviewer ("Arjun") — real-time voice pipeline, LangGraph state machines, automated PDF feedback reports | `Node.js` `PostgreSQL` `LangGraph` `Vapi` `Deepgram` `Gemini` |
-| [**⬡&nbsp;SupportAI**](https://github.com/Samarth-254/Chatbot-frontend) | Hybrid-retrieval RAG chatbot using local semantic embeddings — zero external embedding API cost, full admin console for KB management | `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers` |
+| [**⬡&nbsp;SupportAI**](https://github.com/Samarth-254/Chatbot-frontend) | Hybrid-retrieval RAG chatbot using local semantic embeddings — zero external embedding API cost, full admin console for KB management | `RAG` `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers` |
 | [**⬡&nbsp;SplitEase**](https://github.com/Samarth-254/SplitEaseFrontend) | Real-time expense-splitting PWA — smart balance calculation, friend-wise debt aggregation, offline support, WebSocket live sync | `Node.js` `MongoDB` `WebSockets` `PWA` |
 
 ---
