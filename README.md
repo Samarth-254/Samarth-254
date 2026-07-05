@@ -18,12 +18,13 @@
 ```bash
 visitor@github:~$ cat ./about_me.txt
 
-  Name    : Samarth Nagpal
-  Handle  : Samarth-254
-  Uni     : Maharaja Agrasen Institute of Technology, Delhi — B.Tech CS (AI), Class of 2027
-  Focus   : Scalable web apps · backend services · AI-powered systems
-  DSA     : 450+ solved on LeetCode · 400+ on TakeUForward
-  Status  : ▰▰▰▰▰▰▰▰▰▱  Open to SDE jobs, internships & collabs ✅
+  Name       : Samarth Nagpal
+  Handle     : Samarth-254
+  Uni        : Maharaja Agrasen Institute of Technology (MAIT), Delhi — B.Tech CSE (AI), Class of 2027
+  Focus      : Scalable web apps · backend services · AI-powered systems
+  Experience : SDE Intern @ Datagen (Jul–Oct 2025) · Tech Ops Intern @ DishTV (Jan–May 2025)
+  DSA        : 450+ solved on LeetCode · 400+ on TakeUForward
+  Status     : ▰▰▰▰▰▰▰▰▰▱  Open to SDE jobs, internships & collabs ✅
 ```
 
 ---
