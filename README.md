@@ -1,11 +1,12 @@
 <div align="center">
 
 ```
- ____    _    __  __    _    ____ _____ _   _   _   _    _    ____ ____   _    _
-/ ___|  / \  |  \/  |  / \  |  _ \_   _| | | | | \ | |  / \  / ___|  _ \ / \  | |
-\___ \ / _ \ | |\/| | / _ \ | |_) || | | |_| | |  \| | / _ \| |  _| |_) / _ \ | |
- ___) / ___ \| |  | |/ ___ \|  _ < | | |  _  | | |\  |/ ___ \ |_| |  __/ ___ \| |___
-|____/_/   \_\_|  |_/_/   \_\_| \_\|_| |_| |_| |_| \_/_/   \_\____|_| /_/   \_\_____|
+  _____         __  __          _____ _______ _    _   _   _          _____ _____        _
+ / ____|  /\   |  \/  |   /\   |  __ \__   __| |  | | | \ | |   /\   / ____|  __ \ /\   | |
+| (___   /  \  | \  / |  /  \  | |__) | | |  | |__| | |  \| |  /  \ | |  __| |__) /  \  | |
+ \___ \ / /\ \ | |\/| | / /\ \ |  _  /  | |  |  __  | | . ` | / /\ \| | |_ |  ___/ /\ \ | |
+ ____) / ____ \| |  | |/ ____ \| | \ \  | |  | |  | | | |\  |/ ____ \ |__| | |  / ____ \| |____
+|_____/_/    \_\_|  |_/_/    \_\_|  \_\ |_|  |_|  |_| |_| \_/_/    \_\_____|_| /_/    \_\______|
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full-Stack+Developer+%7C+Scalable+Web+%26+Backend+Systems;Building+AI-Powered+Systems+%F0%9F%9F%A2;Open+to+SDE+Jobs%2C+Internships+%26+Collabs+%E2%9C%A8)](https://git.io/typing-svg)
@@ -123,7 +124,6 @@ console.log("Building things that ship, not just things that demo.");
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff88&labelColor=161b22)](https://portfolio-samarth-nagpal.infinityfreeapp.com/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff&labelColor=0A66C2)](https://linkedin.com/in/samarth-nagpal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=161b22)](https://leetcode.com/u/samarthnagpal254/)
 [![TakeUForward](https://img.shields.io/badge/TakeUForward-0d1117?style=for-the-badge&logo=codeforces&logoColor=00ff88&labelColor=161b22)](https://takeuforward.org/profile/samarth254)
 ![Visitors](https://komarev.com/ghpvc/?username=Samarth-254&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
