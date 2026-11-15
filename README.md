@@ -73,7 +73,6 @@ Internal tooling and support framework in PHP and React; reproducible PHPUnit/Po
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**⬡&nbsp;NextFlow**](https://work-flow-builder-kappa.vercel.app/dashboard) | Visual DAG-based LLM workflow orchestrator — Kahn's algorithm for execution order, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens *(repo private)* | `Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` |
-| **⬡&nbsp;Expadore** | AI travel discovery platform — multimodal PDF itinerary ingestion, conversational trip customization, pgvector RAG for semantic package retrieval, cached Google Places geocoding *(client project)* | `Next.js` `Node.js` `PostgreSQL` `pgvector` `Gemini` `Trigger.dev` |
 | [**⬡&nbsp;InterviewAI**](https://github.com/Samarth-254/AI-Interview) | Voice-based AI mock interview platform with a persona interviewer ("Arjun") — real-time voice pipeline, LangGraph state machines, automated PDF feedback reports | `Node.js` `PostgreSQL` `LangGraph` `Vapi` `Deepgram` `Gemini` |
 | [**⬡&nbsp;SupportAI**](https://github.com/Samarth-254/Chatbot-frontend) | Hybrid-retrieval RAG chatbot using local semantic embeddings — zero external embedding API cost, full admin console for KB management | `RAG` `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers` |
 
@@ -81,9 +80,23 @@ Internal tooling and support framework in PHP and React; reproducible PHPUnit/Po
 
 ### 💼 Client Work
 
-**Expadore** — AI travel discovery platform built end-to-end for a live client. Multimodal PDF itinerary ingestion, conversational trip customization, pgvector RAG for semantic package retrieval, async document processing with Trigger.dev, and a persistent Google Places geocoding cache to cut redundant API calls.
+**[Expadore](https://expadore.com)** — AI travel discovery platform built end-to-end for a live client. Multimodal PDF itinerary ingestion, conversational trip customization, pgvector RAG for semantic package retrieval, async document processing with Trigger.dev, and a persistent Google Places geocoding cache to cut redundant API calls.
 
 **[Wolffoxx](https://wolffoxx.com)** — E-commerce storefront for a streetwear brand. Product catalogue, wishlist, and checkout flows in React/Tailwind, Cloudinary image handling, Razorpay payments, PHP/MySQL backend, deployed on GoDaddy for a live client.
+
+---
+
+## `> github.stats`
+
+<div align="center">
+
+<img height="180" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+
+<img height="180" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+<img height="180" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+
+</div>
 
 ---
 
