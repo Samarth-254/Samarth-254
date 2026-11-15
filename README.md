@@ -90,8 +90,9 @@ Internal tooling and support framework in PHP and React; reproducible PHPUnit/Po
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Samarth-254&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Samarth-254&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Samarth-254&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub trophies" />
 
 </div>
 
