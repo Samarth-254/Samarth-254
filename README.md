@@ -22,8 +22,8 @@ visitor@github:~$ cat ./about_me.txt
   Handle     : Samarth-254
   Uni        : Maharaja Agrasen Institute of Technology (MAIT), Delhi — B.Tech CSE (AI), Class of 2027
   Focus      : Scalable web apps · backend services · AI-powered systems
-  Experience : SDE Intern @ Datagen (Jul–Oct 2025) · Tech Ops Intern @ DishTV (Jan–May 2025)
-  DSA        : 450+ solved on LeetCode · 400+ on TakeUForward
+  Experience : Founding Technical Intern @ Spendline (Aug–Nov 2026) · SDE Intern @ Datagen (Jul–Oct 2025) · Tech Ops Intern @ DishTV (Jan–May 2025)
+  DSA        : 450+ solved on LeetCode · 430+ on TakeUForward
   Status     : ▰▰▰▰▰▰▰▰▰▱  Open to SDE jobs, internships & collabs ✅
 ```
 
@@ -46,6 +46,7 @@ visitor@github:~$ cat ./about_me.txt
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
@@ -54,45 +55,43 @@ visitor@github:~$ cat ./about_me.txt
 
 ---
 
+## `> experience`
+
+**Spendline** — Founding Technical Intern *(Aug–Nov 2026, Remote)*
+90+ merged PRs on an AI spend governance platform (Node.js, PostgreSQL) supporting 10 LLM providers. Built provider failover with evidence-based retries (no duplicate billing), month-end close and invoice reconciliation with append-only audit trails, and security hardening (HttpOnly sessions, strict CSP, login lockout, cross-tenant isolation fixes).
+
+**Datagen Internet Services** — Software Development Intern *(Jul–Oct 2025)*
+WebSocket-based internal platform, React analytics interface, unified multi-channel ticketing platform, and a Vite-based Agent Platform rebuild.
+
+**DishTV** — Technical Operations Intern *(Jan–May 2025)*
+Internal tooling and support framework in PHP and React; reproducible PHPUnit/Postman test cases for API reliability.
+
+---
+
 ## `> pinned.projects`
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**⬡&nbsp;NextFlow**](https://work-flow-builder-kappa.vercel.app/dashboard) | Visual DAG-based LLM workflow orchestrator — Kahn's algorithm for execution order, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens *(repo private — active internship assessment)* | `Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` |
+| [**⬡&nbsp;NextFlow**](https://work-flow-builder-kappa.vercel.app/dashboard) | Visual DAG-based LLM workflow orchestrator — Kahn's algorithm for execution order, async parallel execution via Trigger.dev, live run dashboards with scoped real-time tokens *(repo private)* | `Next.js` `TypeScript` `Trigger.dev` `React Flow` `Prisma` `PostgreSQL` |
+| **⬡&nbsp;Expadore** | AI travel discovery platform — multimodal PDF itinerary ingestion, conversational trip customization, pgvector RAG for semantic package retrieval, cached Google Places geocoding *(client project)* | `Next.js` `Node.js` `PostgreSQL` `pgvector` `Gemini` `Trigger.dev` |
 | [**⬡&nbsp;InterviewAI**](https://github.com/Samarth-254/AI-Interview) | Voice-based AI mock interview platform with a persona interviewer ("Arjun") — real-time voice pipeline, LangGraph state machines, automated PDF feedback reports | `Node.js` `PostgreSQL` `LangGraph` `Vapi` `Deepgram` `Gemini` |
 | [**⬡&nbsp;SupportAI**](https://github.com/Samarth-254/Chatbot-frontend) | Hybrid-retrieval RAG chatbot using local semantic embeddings — zero external embedding API cost, full admin console for KB management | `RAG` `Node.js` `MongoDB` `Groq SDK` `Xenova Transformers` |
-| [**⬡&nbsp;SplitEase**](https://github.com/Samarth-254/SplitEaseFrontend) | Real-time expense-splitting PWA — smart balance calculation, friend-wise debt aggregation, offline support, WebSocket live sync | `Node.js` `MongoDB` `WebSockets` `PWA` |
 
 ---
 
 ### 💼 Client Work
 
+**Expadore** — AI travel discovery platform built end-to-end for a live client. Multimodal PDF itinerary ingestion, conversational trip customization, pgvector RAG for semantic package retrieval, async document processing with Trigger.dev, and a persistent Google Places geocoding cache to cut redundant API calls.
+
 **[Wolffoxx](https://wolffoxx.com)** — E-commerce storefront for a streetwear brand. Product catalogue, wishlist, and checkout flows in React/Tailwind, Cloudinary image handling, Razorpay payments, PHP/MySQL backend, deployed on GoDaddy for a live client.
 
 ---
 
-## `> github.stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth-254&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-254&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
-
-</div>
+## `> github.streak`
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Samarth-254&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `> activity.graph`
-
-<div align="center">
-
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-254&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -113,6 +112,7 @@ visitor@github:~$ cat ./about_me.txt
 ```javascript
 const contact = {
   email     : "samarthnagpal070@gmail.com",
+  linkedin  : "linkedin.com/in/samarth-nagpal",
   portfolio : "portfolio-samarth-nagpal.infinityfreeapp.com",
   leetcode  : "leetcode.com/u/samarthnagpal254",
   tuf       : "takeuforward.org/profile/samarth254",
