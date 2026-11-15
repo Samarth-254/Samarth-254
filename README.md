@@ -90,13 +90,10 @@ Internal tooling and support framework in PHP and React; reproducible PHPUnit/Po
 
 <div align="center">
 
-![Merged PRs](https://img.shields.io/badge/Merged_PRs_at_Spendline-90%2B-0d1117?style=for-the-badge&labelColor=161b22&color=00ff88)
-![LLM Providers](https://img.shields.io/badge/LLM_Providers_Supported-10-0d1117?style=for-the-badge&labelColor=161b22&color=00ff88)
-![LeetCode](https://img.shields.io/badge/LeetCode_Solved-450%2B-0d1117?style=for-the-badge&labelColor=161b22&color=00ff88)
-![TUF](https://img.shields.io/badge/TUF_Solved-430%2B-0d1117?style=for-the-badge&labelColor=161b22&color=00ff88)
+<img width="95%" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
 
-<img height="180" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
-<img height="180" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+<img height="190" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="190" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 
 </div>
 
