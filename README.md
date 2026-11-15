@@ -90,10 +90,8 @@ Internal tooling and support framework in PHP and React; reproducible PHPUnit/Po
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-
-<img height="190" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="190" src="https://raw.githubusercontent.com/Samarth-254/Samarth-254/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth-254&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-254&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
 
 </div>
 
@@ -104,6 +102,16 @@ Internal tooling and support framework in PHP and React; reproducible PHPUnit/Po
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Samarth-254&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> activity.graph`
+
+<div align="center">
+
+[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-254&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
